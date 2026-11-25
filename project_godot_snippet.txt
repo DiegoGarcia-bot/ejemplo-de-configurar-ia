@@ -1,0 +1,4 @@
+Si no quieres usar el menu, agrega esto a tu project.godot (seccion [application]):
+
+[application]
+run/main_scene="res://Main.tscn"
